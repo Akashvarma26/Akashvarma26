@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [News Classification](https://github.com/Akashvarma26/News-Classification-using-RNN)
 
-- 🌱 I’m currently learning **Generative Artificial Intelligence**
+- 🌱 I’m currently learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
