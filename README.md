@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashvarma26" alt="akashvarma26" /></a> </p>
 
-- 🔭 I’m currently working on [Customer Churn Prediction](https://github.com/Akashvarma26/Customer-Churn-Project)
+- 🔭 I’m currently working on [News Classification](https://github.com/Akashvarma26/News-Classification-using-RNN)
 
 - 🌱 I’m currently learning **Generative Artificial Intelligence**
 
