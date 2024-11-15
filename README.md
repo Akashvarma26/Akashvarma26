@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashvarma26" alt="akashvarma26" /></a> </p>
 
-- 🔭 I’m currently working on [NLP Projects](https://github.com/Akashvarma26/NLP-Projects)
+- 🔭 I’m currently working on [Gen AI Projects](https://github.com/Akashvarma26/Gen-AI-tasks-and-projects)
 
 - 🌱 I’m currently learning **Generative AI**
 
